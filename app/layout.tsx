@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type {Metadata, Viewport} from "next";
 import localFont from "next/font/local";
 import "./globals.css";
 import Script from "next/script";
@@ -18,6 +18,13 @@ export const metadata: Metadata = {
   title: "Chase 524 Tracker",
   description: "Track your Chase 5/24 status",
 };
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 1,
+  userScalable: false,
+}
 
 export default function RootLayout({
   children,
