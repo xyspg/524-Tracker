@@ -23,7 +23,9 @@ export function ApplyDate({ onDateSelected }: { onDateSelected: (date: Date)  =>
   }, [date])
 
   return (
-    <Popover>
+    <Popover
+    modal={true}
+    >
       <PopoverTrigger asChild>
         <Button
           variant={"outline"}
