@@ -15,6 +15,10 @@ const nextConfig: NextConfig = {
       {
         protocol: "https",
         hostname: "asset-cdn.uscardforum.com"
+      },
+      {
+        protocol: "https",
+        hostname: "d1do1axor6p0u1.cloudfront.net"
       }
     ]
   }
