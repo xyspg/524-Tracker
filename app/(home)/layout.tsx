@@ -6,11 +6,14 @@ export default function Layout({
   children: React.ReactNode;
 }>) {
   return (
-    <main className="h-full">
-      <Header />
-      <div className="h-[calc(100vh-80px)]">
-        {children}
+    <>
+      <main className="min-h-screen flex flex-col">
+        <Header />
+        <div className="flex-1 flex flex-col">
+            {children}
         </div>
-    </main>
+        
+      </main>
+    </>
   );
 }

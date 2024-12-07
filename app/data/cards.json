@@ -185,8 +185,8 @@
         "imageUrl": "https://asset-cdn.uscardforum.com/original/4X/7/f/2/7f2595e40a739b2140aa8267cb228ba20d039da0.jpeg"
     },
     {
-        "label": "Platinum",
-        "value": "platinum",
+        "label": "AmEx Platinum",
+        "value": "amex-platinum",
         "imageUrl": "https://u.cubeupload.com/ccbackground/amexplat.png"
     },
     {
@@ -210,8 +210,8 @@
         "imageUrl": "https://u.cubeupload.com/ccbackground/amexplatschwab.png"
     },
     {
-        "label": "Gold",
-        "value": "gold",
+        "label": "AmEx Gold",
+        "value": "amex-gold",
         "imageUrl": "https://u.cubeupload.com/uscreditcardstrategy/amexgold.png"
     },
     {
@@ -810,8 +810,8 @@
         "imageUrl": "https://asset-cdn.uscardforum.com/optimized/3X/7/8/78b98b396ef105f47b5b330a6dc8aa00ac8bf242_2_1380x870.jpeg"
     },
     {
-        "label": "Green",
-        "value": "green",
+        "label": "AmEx Green",
+        "value": "amex-green",
         "imageUrl": "https://asset-cdn.uscardforum.com/original/3X/9/c/9cf1c4c96640c78f35d31e54b3f18cb55dfe77dc.jpeg"
     },
     {
